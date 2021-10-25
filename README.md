@@ -20,6 +20,10 @@ a solution. This report is required to be uploaded on GitHub.
 
 Screenshots
 ===========
+Login Credentials
+Admin Login - admin,admin123
+Recruiter - recruiter,recruiter123
+Student/Alumni - admin,admin123
 
 Dashboard
 ---------
